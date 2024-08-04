@@ -1,0 +1,31 @@
+/* Add this CSS to your stylesheet */
+
+.vertical-line {
+  height: 400px;
+  width: 1.9px;
+  background-color: #000000;
+  position: absolute;
+  left: 9px;
+  top: 24px; /* Adjusted to align properly */
+}
+
+.curve-svg {
+  position: absolute;
+  left: 0px;
+}
+
+.curve-1 {
+  transform: translateY(36px);
+}
+
+.curve-2 {
+  transform: translateY(84px);
+}
+
+.curve-3 {
+  transform: translateY(132px);
+}
+
+.curve-4 {
+  transform: translateY(180px);
+}
